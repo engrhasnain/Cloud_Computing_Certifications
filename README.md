@@ -70,7 +70,3 @@ This certificate focuses on AWS pricing strategies, billing concepts, and cost o
 
 ### Skills Gained
 Cost estimation, workload optimization, billing analysis, knowledge of AWS pricing models and cost-saving tools.
-
----
-
-If you want, I can also generate badges or icons for each certificate to make the README look more professional.
